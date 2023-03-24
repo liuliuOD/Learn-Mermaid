@@ -1,15 +1,17 @@
-# Mermaid Learning Tutorial
-This project is my learning record, including commonly used basic syntax and examples, sufficient for your daily needs.
+[English](./README_en.md) | [中文](./README.md)
 
-## What is Mermaid
-[Mermaid](https://mermaid.js.org/) is a simple yet powerful tool for drawing flowcharts and diagrams. With this tool, you can easily create and customize your own flowcharts for your projects, demos, workflows, and anything else you can think of. Whether you're a developer, designer, or just someone who wants to communicate ideas visually, this tool can help you get the job done.
+# Learn Mermaid
+這個專案是我的學習紀錄，將著重在 Markdown，包含常用的基礎語法和範例，足夠日常應用場景使用。
 
-## Features
-- Use Mermaid syntax to create flowcharts and diagrams.
-- Customize the style and appearance of your charts using CSS.
-- Embed your charts in HTML, Markdown, or other documents.
-- Collaborate with others by sharing your Mermaid code on GitHub or other platforms.
+## Mermaid 簡介
+[Mermaid](https://mermaid.js.org/) 是一個可用於繪製流程圖、燃盡圖、心智圖...等各類型圖表的工具。你可以很方便的使用這個工具，為你的個人專案、工作簡報等各式場景，客製化畫出各式圖表。不論你的身份是開發者、設計師或是任何需要呈現腦袋中想法，並和他人溝通流程的所有工作類型，這個工具都能對任務起到不小的幫助。
 
-## Tutorial Index
+## 特性
+- 能快速又容易的創建流程圖及各式圖表。
+- 可以用 CSS 客製化樣式。
+- 能將做好的視圖放進 HTML, Markdown 等各類文件中。
+- 可以在支援 Mermaid 語法的平台上，如：Github，分享 Mermaid 寫出的文件，並達到版控和多人協作的效果。
 
-- [Flowchart](./%E6%B5%81%E7%A8%8B%E5%9C%96%20(Flowchart)/README.md)
+## 學習目錄
+
+- [流程圖](./%E6%B5%81%E7%A8%8B%E5%9C%96%20(Flowchart)/README.md)
