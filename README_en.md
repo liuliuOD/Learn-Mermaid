@@ -14,3 +14,15 @@ This project is my learning record, including commonly used basic syntax and exa
 ## Tutorial Index
 
 - [Flowchart](./%E6%B5%81%E7%A8%8B%E5%9C%96%20(Flowchart)/README.md)
+- [Sequence Diagram]()
+- [Class Diagram]()
+- [State Diagram]()
+- [Entity Relationship Diagram]()
+- [User Journey Map]()
+- [Gantt]()
+- [Pie Chart]()
+- [Requirement Diagram]()
+- [Gitgraph Diagram]()
+- [C4 Diagram]()
+- [Mindmaps]()
+- [Timeline]()
