@@ -13,7 +13,7 @@ This project is my learning record, including commonly used basic syntax and exa
 
 ## Tutorial Index
 
-- [Flowchart](./%E6%B5%81%E7%A8%8B%E5%9C%96%20(Flowchart)/README.md)
+- [Flowchart](./流程圖%20(Flowchart)/README.md)
 - [Sequence Diagram]()
 - [Class Diagram]()
 - [State Diagram]()
@@ -24,5 +24,5 @@ This project is my learning record, including commonly used basic syntax and exa
 - [Requirement Diagram]()
 - [Gitgraph Diagram]()
 - [C4 Diagram]()
-- [Mindmaps]()
+- [Mindmaps](./心智圖%20(MindMap)/README.md)
 - [Timeline]()
